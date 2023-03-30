@@ -1,2 +1,2 @@
 # leetcode
-leetcode rookie
+leetcode rookie :D
